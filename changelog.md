@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.2] - 2021-02-04
+- New data-anim-cards-pause-hover attribute to pause animation on hover
+
 ## [1.1.1] - 2020-08-05
 - Added pause button to control cards animation
 
